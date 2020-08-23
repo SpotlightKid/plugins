@@ -1,0 +1,12 @@
+[Core]
+name = podcast_rss
+module = podcast_rss
+
+[Nikola]
+plugincategory = Task
+
+[Documentation]
+author = Christopher Arndt
+version = 0.1
+website = https://plugins.getnikola.com/#podcast_rss
+description = Task plugin to generate podcast-enhanced RSS feeds
